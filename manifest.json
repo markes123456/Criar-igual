@@ -1,8 +1,6 @@
 {
-  "name": "MEI Preload", 
-  "icons": {}, 
-  "version": "1.0.7.1652906823", 
-  "manifest_version": 2, 
-  "update_url": "https://clients2.google.com/service/update2/crx", 
-  "description": "Contains preloaded data for Media Engagement"
+  "manifest_version": 2,
+  "name": "Privacy Sandbox Attestations",
+  "version": "2025.7.18.0",
+  "pre_installed": true
 }
