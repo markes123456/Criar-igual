@@ -1,6 +1,8 @@
 {
-  "manifest_version": 2,
-  "name": "Iwa Key Distribution",
-  "version": "2025.10.24.0",
-  "is_preloaded": true
+  "name": "MEI Preload", 
+  "icons": {}, 
+  "version": "1.0.7.1652906823", 
+  "manifest_version": 2, 
+  "update_url": "https://clients2.google.com/service/update2/crx", 
+  "description": "Contains preloaded data for Media Engagement"
 }
